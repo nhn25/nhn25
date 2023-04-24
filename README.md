@@ -1,5 +1,5 @@
 
-<h1 align="center">I am <b>Nehuen L. Inostroza</b><img
+<h1 align="center">Hi, I am <b>Nehuen L. Inostroza</b><img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 **I'm 20 years old, I'm from Formosa, Argentina and I'm a backend and frontend software developer.**
